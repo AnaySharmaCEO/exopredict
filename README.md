@@ -1,7 +1,8 @@
 
   # ExoPredict Frontend Development
 
-  This is a code bundle for ExoPredict Frontend Development. The original project is available at https://www.figma.com/design/15mHlZYTxl3pdtDX1Qpmth/ExoPredict-Frontend-Development.
+The original project is available at 
+https://anaysharmaceo.github.io/exopredict/
 
   ## Running the code
 
